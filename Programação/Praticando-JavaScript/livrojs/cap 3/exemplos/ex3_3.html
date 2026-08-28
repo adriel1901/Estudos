@@ -1,0 +1,20 @@
+<script>
+    var bairro = prompt("Digite qual é o seu bairro:")
+    var taxaEntrega
+
+    switch(bairro){
+        case "Centro":
+            taxaEntrega = 5.00
+            break
+        case "Fragata":
+        case "Três Vendas":
+            taxaEntrega = 7.00
+            break
+        case "Laranjal":
+            taxaEntrega = 10.00
+            break
+        default:
+            taxaEntrega = 8.00
+    }
+    alert("O valor da taxa eh: " + taxaEntrega.toFixed(2))
+</script>
