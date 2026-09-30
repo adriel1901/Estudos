@@ -5,17 +5,18 @@ int main()
 	
 	printf("Digite uma letra: ");
 	letra1=getchar();
-	//getchar();
-	printf("\nSenha gravado: %c\n", letra1);
-		
+	getchar();
+	printf("Senha gravado: %c\n", letra1);	
+
 	printf("Digite outra letra: ");
     letra2=getchar();
-    printf("\nLetra digitada : %c\n", letra2);
+	getchar();
+    printf("Letra digitada : %c\n", letra2);
    
-    
 	printf("Digite novamente uma letra: ");
 	letra3=getchar();
-    printf("\nLetra digitada : %c\n", letra3);
+	getchar();
+    printf("Letra digitada : %c", letra3);
     
 	return 0;
 } 

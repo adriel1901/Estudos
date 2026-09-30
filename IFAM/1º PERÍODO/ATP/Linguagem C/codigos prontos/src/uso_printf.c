@@ -14,7 +14,7 @@ int main() {
     printf("--- Números Inteiros ---\n");
     int inteiro = 42;
     long inteiro_longo = 1234567890L;
-    printf("Inteiro padrão: cond = cond = cond = cond = %d\n", inteiro);
+    printf("Inteiro padrão: cond = %d\n", inteiro);
     printf("Inteiro (alternativo): %i\n", inteiro);
     printf("Inteiro longo: %ld\n\n", inteiro_longo);
 
@@ -29,6 +29,7 @@ int main() {
     printf("Produto com %6.3f%% de Desconto\n\n",perc);
 
     // Formatações Especiais (Hexadecimal, Octal e Alinhamento)
+    
     printf("--- Formatações Especiais ---\n");
     int num = 255;
     printf("Hexadecimal (minúsculo): %x\n", num);
