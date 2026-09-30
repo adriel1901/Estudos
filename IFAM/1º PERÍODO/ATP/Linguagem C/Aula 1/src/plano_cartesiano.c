@@ -2,24 +2,50 @@
 
 int main()
 {
-    float x, y;
-
+    float x = 0, y = 0;
     scanf("%f %f", &x, &y);
 
-    if (x > 0 && y > 0)
+    if (x > 0)
     {
-        printf("Q1");
+        if (y > 0)
+        {
+            printf("Q1");
+        }
+        else if (y < 0)
+        {
+            printf("Q4");
+        }
+        else
+        {
+            printf("eixo x");
+        }
     }
-    else if (x > 0 && y < 0)
+
+    else if (x < 0)
     {
-        printf("Q4");
+        if (y > 0)
+        {
+            printf("Q2");
+        }
+        else if (y < 0)
+        {
+            printf("Q3");
+        }
+        else
+        {
+            printf("eixo x");
+        }
     }
-    else if (x < 0 && y > 0)
+    else
     {
-        printf("Q2");
+        if (y != 0)
+        {
+            printf("eixo y");
+        }
+        else
+        {
+            printf("origem");
+        }
     }
-    else if (x < 0 && y < 0)
-    {
-        printf("Q3");
-    }
+    return 0;
 }
