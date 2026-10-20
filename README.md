@@ -1,45 +1,36 @@
-# 📓 Minhas Anotações
+# Minhas Anotações — Workspace Central
 
-**Um caderno aberto para estudar, experimentar e voltar quando a memória falhar.**
-
-Aqui reúno anotações de aulas, leituras, exercícios, projetos e descobertas ao longo dos meus estudos. É um espaço em construção: os assuntos se expandem, as pastas mudam e as explicações amadurecem com a prática.
-
-> Aprender → registrar → praticar → revisar → conectar.
-
-## 🧭 Por onde começar
-
-As [pastas do repositório](./) são o ponto de partida para explorar o conteúdo disponível. Cada uma guarda o contexto de um estudo — uma disciplina, um curso, um projeto ou uma prática independente.
-
-| Se você quer… | O caminho é… |
-| --- | --- |
-| Explorar o que estou estudando | Navegar pelas pastas e escolher um contexto de interesse. |
-| Encontrar um conceito específico | Buscar pelo assunto, pelo nome do arquivo ou por uma palavra-chave. |
-| Entender um exercício ou projeto | Ler as anotações e os exemplos que acompanham o código. |
-| Retomar um estudo | Consultar o README ou índice da pasta, quando houver, e revisitar os registros de revisão. |
-
-**Dica de busca:** no GitHub, use **Go to file** para localizar arquivos pelo nome. Em um editor, use a busca global para procurar também dentro das anotações.
-
-## ✍️ O que cabe neste caderno
-
-- **Ideias com minhas palavras:** resumos, explicações e conexões entre conceitos.
-- **Conhecimento em prática:** exercícios, exemplos de código e pequenos projetos.
-- **Memória do processo:** dúvidas, erros, tentativas e soluções que merecem ser revisitadas.
-- **Material de apoio:** referências, imagens e arquivos que complementam os estudos.
-
-Os registros podem estar em diferentes estágios: de um rascunho rápido a um guia mais elaborado. O objetivo é construir compreensão e facilitar a próxima consulta.
-
-## 🌱 Como manter a organização conforme o caderno cresce
-
-A proposta é manter este README como uma apresentação duradoura e deixar a navegação detalhada perto do conteúdo.
-
-1. **Agrupar pelo contexto.** Guardar cada registro junto da disciplina, curso, projeto ou estudo ao qual pertence.
-2. **Nomear para reencontrar.** Preferir títulos que indiquem o assunto; usar números quando houver uma sequência de leitura.
-3. **Criar índices locais quando necessário.** Se uma pasta crescer, adicionar um README ou índice com links, uma breve descrição e uma ordem de leitura sugerida.
-4. **Conectar sem duplicar.** Quando um conceito aparecer em mais de um estudo, usar links entre as notas.
-5. **Revisar junto com a prática.** Complementar explicações, registrar aprendizados dos erros e atualizar o índice da pasta quando seu conteúdo mudar.
-
-Assim, novos assuntos ganham espaço sem exigir um catálogo central de todas as trilhas, tecnologias e disciplinas.
+Bem-vindo ao repositório central de anotações e estudos.
 
 ---
 
-*Cada anotação é um ponto de partida para entender melhor na próxima vez.*
+## 🏛️ Áreas do Repositório
+
+### 1. [IFAM — Bacharelado em Ciência da Computação](IFAM/README.md)
+Sistema acadêmico principal da graduação no Instituto Federal do Amazonas.
+- [Dashboard Geral do Curso](IFAM/README.md)
+- [1º Período](IFAM/01-periodo/)
+  - [ATP (Algoritmos e Técnicas de Programação)](IFAM/01-periodo/ATP/README.md)
+  - [Cálculo I](IFAM/01-periodo/Calculo-I/README.md)
+  - [Álgebra Linear](IFAM/01-periodo/Algebra-Linear/README.md)
+  - [Introdução à Computação](IFAM/01-periodo/Introducao-Computacao/README.md)
+  - [Matemática Discreta](IFAM/01-periodo/Matematica-Discreta/README.md)
+  - [Inglês Instrumental](IFAM/01-periodo/Ingles/README.md)
+- [Projetos Acadêmicos](IFAM/Projetos/README.md)
+- [Provas e Avaliações](IFAM/Provas/README.md)
+- [Revisões](IFAM/Revisoes/README.md)
+
+### 2. [Programação Competitiva & Maratona SBC](Programação/Maratona%20SBC/)
+- [Facompetind](Programação/Maratona%20SBC/Facompetind/): Conteúdos de C++, complexidade assintótica e dicas para competições.
+- [Preparatório IFAM](Programação/Maratona%20SBC/Preparatorio%20-%20IFAM/): Treinamentos e aulas preparatórias da maratona.
+- [Livro Ziviani](Programação/Maratona%20SBC/Livro%20Zivanni/): Implementações de algoritmos e estruturas de dados.
+
+### 3. [Linux e Ferramentas](Linux/uso%20de%20ferramentas%20C%20e%20C++/teste%201/guia%20de%20configuração.md)
+- [Guia de Ferramentas de Memória (ASan e Valgrind)](Linux/uso%20de%20ferramentas%20C%20e%20C++/teste%201/guia%20de%20configuração.md): Depuração de memória e prevenção de falhas de segmentação.
+
+---
+
+## 🤖 Subagent Acadêmico
+
+Este workspace possui o subagent **`ifam-notes`** habilitado para processar notas brutas, documentar conceitos permanentes e manter os índices sincronizados.
+Consulte as regras em [AGENTS.md](AGENTS.md).
