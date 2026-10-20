@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d63423c544c1b642",
+        "id": "42760671c16651f8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c93568fed87ce94",
+            "id": "3093a013d8358e94",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/leirda/Documentos/COMANDOS-DESENVOLVIMENTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMANDOS-DESENVOLVIMENTO"
             }
           }
         ]
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "file:/home/leirda/Documentos/COMANDOS-DESENVOLVIMENTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,15 +189,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0c93568fed87ce94",
+  "active": "3093a013d8358e94",
   "lastOpenFiles": [
-    "Programação/Maratona SBC/Facompetind/Tipos de Complexidade.md",
+    "01-periodo/Algebra-Linear/provas.md",
+    "01-periodo/Algebra-Linear",
+    "01-periodo",
+    "IFAM/01-periodo/ATP/README.md",
+    "IFAM/01-periodo/ATP/conceitos/vetores.md",
+    "IFAM/01-periodo/ATP/conceitos/estruturas-condicionais.md",
+    "IFAM/01-periodo/ATP/aulas/2026-09-30-vetores-em-c.md",
+    "IFAM/01-periodo/ATP/aulas/2026-09-23-estruturas-condicionais.md",
+    "aulas.md",
+    "IFAM/01-periodo/Algebra-Linear/README.md",
+    "Programação/Maratona SBC/Facompetind/Entrada e Saída em C++.md",
+    "Linux/uso de ferramentas C e C++/teste 1/guia de configuração.md",
     "Programação/Maratona SBC/Facompetind/Diário de Erros Técnicos.md",
     "Programação/Maratona SBC/Facompetind/00 - Índice e Mapa de Conteúdo.md",
+    "Programação/Maratona SBC/Facompetind/Tipos de Complexidade.md",
     "Sem título.canvas",
     "2026-09-18.md",
     "Programação/Maratona SBC/Facompetind/Flashcards e Revisão Rápida.md",
-    "Linux/uso de ferramentas C e C++/teste 1/guia de configuração.md",
     "Maratona SBC/Facompetind/Tipos de Complexidade.md",
     "Maratona SBC/Facompetind/Flashcards e Revisão Rápida.md",
     "Maratona SBC/Facompetind/Estruturas Condicionais em C++.md",
@@ -203,17 +220,8 @@
     "Maratona SBC/Entrada e Saída em C++.md",
     "Maratona SBC/Diário de Erros Técnicos.md",
     "Maratona SBC/00 - Índice e Mapa de Conteúdo.md",
-    "Maratona SBC/Matemática/Crivo de Eratóstenes.md",
-    "Maratona SBC/Tipos de Complexidade.md",
     "Maratona SBC/assets",
     "Maratona SBC",
-    "Maratona SBC/Matemática/Algoritmo de Euclides e MMC.md",
-    "Maratona SBC/Erros e Revisão/Flashcards e Revisão Rápida.md",
-    "Maratona SBC/Erros e Revisão/Diário de Erros Técnicos.md",
-    "Maratona SBC/Algoritmos e Técnicas/Algoritmo Guloso (Greedy).md",
-    "Maratona SBC/Algoritmos e Técnicas/Busca Binária.md",
-    "IFAM/MD/teste.md",
-    "Maratona SBC/Grafos/Árvore Geradora Mínima (Algoritmo de Kruskal).md",
     "Maratona SBC/assets/Níveis de complexidade.png",
     "Maratona SBC/assets/complexity_big(o).png",
     "Maratona SBC/assets/union2.png",
@@ -229,8 +237,6 @@
     "Maratona SBC/Estruturas de Dados",
     "Maratona SBC/Fundamentos",
     "Maratona SBC/Erros e Revisão",
-    "Maratona SBC/Algoritmos e Técnicas",
-    "IFAM/MD",
-    "IFAM"
+    "Maratona SBC/Algoritmos e Técnicas"
   ]
 }

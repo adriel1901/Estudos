@@ -12,8 +12,9 @@ Repositório central de notas de aula, conceitos fundamentais, exercícios e mat
 - [x] Estruturas de controle de fluxo: `if`, `else if`, `else`
 - [x] Operador condicional ternário (`?:`)
 - [x] Vetores unidimensionais (*arrays*)
-- [ ] Matrizes multidimensionais
-- [ ] Manipulação de strings
+- [x] Matrizes multidimensionais
+- [x] Manipulação de strings e caracteres (`ctype.h`, `string.h`)
+- [x] Funções matemáticas e números aleatórios (`math.h`, `stdlib.h`, `time.h`)
 - [ ] Funções e modularização
 - [ ] Ponteiros e alocação dinâmica de memória
 - [ ] Structs e tipos definidos pelo usuário
@@ -24,6 +25,8 @@ Repositório central de notas de aula, conceitos fundamentais, exercícios e mat
 
 - [2026-09-23 — Estruturas Condicionais e Tomada de Decisão](aulas/2026-09-23-estruturas-condicionais.md)
 - [2026-09-30 — Vetores Unidimensionais (Arrays) em C](aulas/2026-09-30-vetores-em-c.md)
+- [2026-10-14 — Matrizes Multidimensionais em C](aulas/2026-10-14-matrizes-multidimensionais.md)
+- [2026-10-20 — Tratamento de String, Char e Funções Matemáticas](aulas/2026-10-20-char-strings-e-funcoes-matematicas.md)
 
 ---
 
@@ -31,6 +34,15 @@ Repositório central de notas de aula, conceitos fundamentais, exercícios e mat
 
 - [Estruturas Condicionais em C](conceitos/estruturas-condicionais.md)
 - [Vetores (Arrays Unidimensionais) em C](conceitos/vetores.md)
+- [Matrizes Multidimensionais em C](conceitos/matrizes.md)
+- [Manipulação de Caracteres, Strings e Funções Matemáticas em C](conceitos/char-strings-math.md)
+
+---
+
+## Atividades
+
+- [Atividades: Matrizes Multidimensionais](atividades/atividades-matrizes.md)
+- [Atividades: Caracteres, Strings e Funções Matemáticas](atividades/atividades-char-strings-math.md)
 
 ---
 
