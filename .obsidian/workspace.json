@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/home/leirda/Documentos/COMANDOS-DESENVOLVIMENTO.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMANDOS-DESENVOLVIMENTO"
+              "title": "AGENTS"
             }
           }
         ]
@@ -191,6 +191,12 @@
   },
   "active": "3093a013d8358e94",
   "lastOpenFiles": [
+    "Programação/Maratona SBC/Registro.md",
+    "Painel de Rotina.md",
+    "IFAM/Projetos/README.md",
+    "README.md",
+    "Flashcards para Revisão.md",
+    "file:/home/leirda/Documentos/COMANDOS-DESENVOLVIMENTO.md",
     "01-periodo/Algebra-Linear/provas.md",
     "01-periodo/Algebra-Linear",
     "01-periodo",
@@ -214,12 +220,6 @@
     "Maratona SBC/Facompetind/Estruturas Condicionais em C++.md",
     "Maratona SBC/Facompetind/Entrada e Saída em C++.md",
     "Maratona SBC/Facompetind/Diário de Erros Técnicos.md",
-    "Maratona SBC/Facompetind/00 - Índice e Mapa de Conteúdo.md",
-    "Maratona SBC/Flashcards e Revisão Rápida.md",
-    "Maratona SBC/Estruturas Condicionais em C++.md",
-    "Maratona SBC/Entrada e Saída em C++.md",
-    "Maratona SBC/Diário de Erros Técnicos.md",
-    "Maratona SBC/00 - Índice e Mapa de Conteúdo.md",
     "Maratona SBC/assets",
     "Maratona SBC",
     "Maratona SBC/assets/Níveis de complexidade.png",
