@@ -1,0 +1,8 @@
+# Ambientes e Segredos
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+google-services.json
+GoogleService-Info.plist
