@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Desafio1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="desafios.Desafio1" />
+    <module name="ICC_17_11" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
