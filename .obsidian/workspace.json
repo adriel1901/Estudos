@@ -206,6 +206,10 @@
   },
   "active": "6a2d2fc92be13992",
   "lastOpenFiles": [
+    "IFAM/01-periodo/Introducao-Computacao/ICC 17.11/README.md",
+    "IFAM/01-periodo/Introducao-Computacao/ICC 17.11/src/desafios/Desafio2.java~",
+    "IFAM/01-periodo/Introducao-Computacao/ICC 17.11/out/production/ICC_17_11/desafios/Desafio3.class",
+    "IFAM/01-periodo/Introducao-Computacao/ICC 17.11/src/desafios/Desafio3.java~",
     "Programação/Maratona SBC/Registro.md",
     "Painel de Rotina.md",
     "IFAM/Projetos/README.md",
@@ -234,7 +238,6 @@
     "Maratona SBC/Facompetind/Flashcards e Revisão Rápida.md",
     "Maratona SBC/Facompetind/Estruturas Condicionais em C++.md",
     "Maratona SBC/Facompetind/Entrada e Saída em C++.md",
-    "Maratona SBC/Facompetind/Diário de Erros Técnicos.md",
     "Maratona SBC/assets",
     "Maratona SBC",
     "Maratona SBC/assets/Níveis de complexidade.png",
@@ -249,9 +252,6 @@
     "Maratona SBC/assets/krs5.png",
     "Maratona SBC/Matemática",
     "Maratona SBC/Grafos",
-    "Maratona SBC/Estruturas de Dados",
-    "Maratona SBC/Fundamentos",
-    "Maratona SBC/Erros e Revisão",
-    "Maratona SBC/Algoritmos e Técnicas"
+    "Maratona SBC/Estruturas de Dados"
   ]
 }
